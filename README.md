@@ -1,0 +1,1 @@
+doctl static binary
